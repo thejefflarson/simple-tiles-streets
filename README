@@ -1,0 +1,10 @@
+Make a map just like this one:
+
+<img src="http://propublica.github.com/simple-tiles/docs/us-roads.png">
+
+Usage:
+
+$ sh ./gimme-streets.sh
+$ sh ./gimme-database.sh
+$ make
+$ ./all_roads

@@ -1,2 +1,4 @@
 data
 *.o
+*.png
+all_roads
