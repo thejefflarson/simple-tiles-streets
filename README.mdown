@@ -1,6 +1,6 @@
 Make a map just like this one:
 
-<img src="http://propublica.github.com/simple-tiles/docs/us-roads.png">
+![http://propublica.github.com/simple-tiles/docs/us-roads.png]
 
 Usage:
 
