@@ -4,7 +4,7 @@ Make a map just like this one:
 
 Usage:
 
-$ sh ./gimme-streets.sh
-$ sh ./gimme-database.sh
-$ make
-$ ./all_roads
+    $ sh ./gimme-streets.sh
+    $ sh ./gimme-database.sh
+    $ make
+    $ ./all_roads
